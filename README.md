@@ -13,11 +13,11 @@ NumPy로 인공신경망의 기본 연산을 직접 구현하고, MNIST 숫자 �
 
 
 01. XOR 구현
-    ↓
+    
 02. NumPy 기반 MNIST 숫자 분류
-    ↓
+    
 03. 직접 만든 손글씨 데이터 추가 학습
-    ↓
+    
 04. PyTorch CNN 구현
 
 
@@ -571,7 +571,7 @@ batch_size = 16
 
 
 
-05. PyTorch CNN
+04. PyTorch CNN
 
 
 마지막 단계에서는 기존 NumPy 기반 MLP를 PyTorch 기반 CNN으로 다시 구현했습니다.
