@@ -843,29 +843,53 @@ CUDA 사용 가능
 
 
 Perceptron
+
     ↓
+
 XOR
+
     ↓
+
 다층 신경망
+
     ↓
+
 순전파
+
     ↓
+
 손실 함수
+
     ↓
+
 역전파
+
     ↓
+
 Gradient Descent
+
     ↓
+
 MNIST 숫자 분류
+
     ↓
+
 직접 작성한 숫자 예측
+
     ↓
+
 직접 만든 데이터셋
+
     ↓
+
 추가 학습
+
     ↓
+
 PyTorch
+
     ↓
+    
 CNN
 
 
