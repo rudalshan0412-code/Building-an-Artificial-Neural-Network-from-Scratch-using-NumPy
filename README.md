@@ -1,6 +1,5 @@
 # Building-an-Artificial-Neural-Network-from-Scratch-using-NumPy
 
-Mini Brain Project
 
 
 NumPy로 인공신경망의 기본 연산을 직접 구현하고, MNIST 숫자 분류와 직접 만든 손글씨 데이터 추가 학습을 거친 뒤 PyTorch 기반 CNN으로 확장한 프로젝트입니다.
@@ -19,7 +18,7 @@ NumPy로 인공신경망의 기본 연산을 직접 구현하고, MNIST 숫자 �
     ↓
 03. 직접 만든 손글씨 데이터 추가 학습
     ↓
-05. PyTorch CNN 구현
+04. PyTorch CNN 구현
 
 
 
